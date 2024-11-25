@@ -12,6 +12,7 @@ body {
   /* width: 100vw;
   height: 100vh; */
   display: grid;
+  justify-content: center;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
   padding: 120px 240px;
